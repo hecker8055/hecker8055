@@ -1,7 +1,7 @@
-
-
-
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+
+
 
 <h1 align="center">Hi 👋, I'm Aman Verma!</h1>
 <h3 align="center">A passionate Backend Developer </h3>
@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Connectify](https://github.com/hecker8055/Connectify)
+
 
 - 🌱 I’m currently learning **Spring-boot**
 
