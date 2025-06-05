@@ -12,7 +12,7 @@
 </div>
 
 **<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="mailto:vermaamank23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/amanverma2301r/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 12px"></a></p>
+<p align="center"><a href="mailto:vermaamank23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/amanverma2301/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 12px"></a></p>
 
  **<h3 align="center">👀 A Software Engineer .</h3>**
 
