@@ -39,7 +39,8 @@
 <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="40" alt="C++" style="margin-right: 18px"></div>
 
 
-[![AMAN's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hecker8055&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&theme=dark&bg_color=151515#gh-dark-mode-only)](https://github.com/rickstaa/github-readme-stats)
+### ⚡ GitHub StatsMore actions
+[![Aman's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hecker8055&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=percentile&theme=dark&bg_color=151515#gh-dark-mode-only)](https://github.com/rickstaa/github-readme-stats)
 </br>
 ![visitors](https://komarev.com/ghpvc/?username=nav9v&style=flat-square)
 ![Aman's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hecker8055&theme=github-compact&area=true&bg_color=ffff&color=000)
